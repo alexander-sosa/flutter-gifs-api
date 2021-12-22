@@ -2,7 +2,7 @@
 A flutter application that consumes the Giphy API and shows a gifs list. The gifs can be selected to see more details.
 
 ## Developer
-- Alexander Sosa
+- Alexander Sosa (https://www.linkedin.com/in/alexander-sosa-asillanes/)
 
 ## Technologies Used
 - Flutter
